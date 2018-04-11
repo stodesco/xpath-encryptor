@@ -1,0 +1,6 @@
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\EncryptStringSample\bin\Debug\EncryptStringSample.exe
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\EncryptStringSample\bin\Debug\EncryptStringSample.pdb
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\EncryptStringSample\obj\Debug\EncryptStringSample.csprojResolveAssemblyReference.cache
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\EncryptStringSample\obj\Debug\EncryptStringSample.csproj.CoreCompileInputs.cache
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\EncryptStringSample\obj\Debug\EncryptStringSample.exe
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\EncryptStringSample\obj\Debug\EncryptStringSample.pdb

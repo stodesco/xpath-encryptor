@@ -1,0 +1,14 @@
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\EncryptStringSample\bin\Debug\XpathEncryptor.exe
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\EncryptStringSample\bin\Debug\XpathEncryptor.pdb
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\EncryptStringSample\obj\Debug\XpathEncryptor.csproj.CoreCompileInputs.cache
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\EncryptStringSample\obj\Debug\XpathEncryptor.exe
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\EncryptStringSample\obj\Debug\XpathEncryptor.pdb
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor\obj\Debug\XpathEncryptor.csprojResolveAssemblyReference.cache
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor\obj\Debug\XpathEncryptor.csproj.CoreCompileInputs.cache
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor\obj\Debug\XpathEncryptor.exe
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor\obj\Debug\XpathEncryptor.pdb
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor\bin\Debug\XpathEncryptor.exe.config
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor\bin\Debug\XpathEncryptor.exe
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor\bin\Debug\XpathEncryptor.pdb
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor\bin\Debug\XpathEncryptor.Core.dll
+C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor\bin\Debug\XpathEncryptor.Core.pdb
