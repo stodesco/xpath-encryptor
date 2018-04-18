@@ -4,3 +4,9 @@ C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor
 C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor.Core\obj\Debug\XpathEncryptor.Core.csproj.CoreCompileInputs.cache
 C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor.Core\obj\Debug\XpathEncryptor.Core.dll
 C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor.Core\obj\Debug\XpathEncryptor.Core.pdb
+C:\Programming\Playground\XpathEncryptor\XpathEncryptor\XpathEncryptor.Core\bin\Debug\XpathEncryptor.Core.dll
+C:\Programming\Playground\XpathEncryptor\XpathEncryptor\XpathEncryptor.Core\bin\Debug\XpathEncryptor.Core.pdb
+C:\Programming\Playground\XpathEncryptor\XpathEncryptor\XpathEncryptor.Core\obj\Debug\XpathEncryptor.Core.csproj.CoreCompileInputs.cache
+C:\Programming\Playground\XpathEncryptor\XpathEncryptor\XpathEncryptor.Core\obj\Debug\XpathEncryptor.Core.dll
+C:\Programming\Playground\XpathEncryptor\XpathEncryptor\XpathEncryptor.Core\obj\Debug\XpathEncryptor.Core.pdb
+C:\Programming\Playground\XpathEncryptor\XpathEncryptor\XpathEncryptor.Core\obj\Debug\XpathEncryptor.Core.csprojResolveAssemblyReference.cache

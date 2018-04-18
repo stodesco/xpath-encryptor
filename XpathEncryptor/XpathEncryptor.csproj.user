@@ -3,4 +3,8 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartArguments>"..\..\..\XpathEncryptor.Consumer\bin\Debug\XpathEncryptor.Consumer.exe.config" "configuration/appSettings/add[%40key=%27TestSetting%27]/%40value" "VeryHard2Guess!"</StartArguments>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>
+    </StartArguments>
+  </PropertyGroup>
 </Project>

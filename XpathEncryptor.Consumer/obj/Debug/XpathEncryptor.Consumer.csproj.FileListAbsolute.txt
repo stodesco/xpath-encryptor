@@ -7,3 +7,12 @@ C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor
 C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor.Consumer\obj\Debug\XpathEncryptor.Consumer.pdb
 C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor.Consumer\bin\Debug\XpathEncryptor.Core.dll
 C:\Programming\Playground\EncryptStringSample\EncryptStringSample\XpathEncryptor.Consumer\bin\Debug\XpathEncryptor.Core.pdb
+C:\Programming\Playground\XpathEncryptor\XpathEncryptor\XpathEncryptor.Consumer\bin\Debug\XpathEncryptor.Consumer.exe.config
+C:\Programming\Playground\XpathEncryptor\XpathEncryptor\XpathEncryptor.Consumer\bin\Debug\XpathEncryptor.Consumer.exe
+C:\Programming\Playground\XpathEncryptor\XpathEncryptor\XpathEncryptor.Consumer\bin\Debug\XpathEncryptor.Consumer.pdb
+C:\Programming\Playground\XpathEncryptor\XpathEncryptor\XpathEncryptor.Consumer\bin\Debug\XpathEncryptor.Core.dll
+C:\Programming\Playground\XpathEncryptor\XpathEncryptor\XpathEncryptor.Consumer\bin\Debug\XpathEncryptor.Core.pdb
+C:\Programming\Playground\XpathEncryptor\XpathEncryptor\XpathEncryptor.Consumer\obj\Debug\XpathEncryptor.Consumer.csprojResolveAssemblyReference.cache
+C:\Programming\Playground\XpathEncryptor\XpathEncryptor\XpathEncryptor.Consumer\obj\Debug\XpathEncryptor.Consumer.csproj.CoreCompileInputs.cache
+C:\Programming\Playground\XpathEncryptor\XpathEncryptor\XpathEncryptor.Consumer\obj\Debug\XpathEncryptor.Consumer.exe
+C:\Programming\Playground\XpathEncryptor\XpathEncryptor\XpathEncryptor.Consumer\obj\Debug\XpathEncryptor.Consumer.pdb

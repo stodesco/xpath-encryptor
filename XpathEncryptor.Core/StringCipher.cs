@@ -6,6 +6,10 @@ using System.Text;
 
 namespace XpathEncryptor.Core
 {
+    /// <summary>
+    /// Encrypts or decrypts a string
+    /// </summary>
+    /// <seealso cref="XpathEncryptor.Core.IStringCipher" />
     public class StringCipher : IStringCipher
     {
         // This constant is used to determine the keysize of the encryption algorithm in bits.
