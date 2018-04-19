@@ -19,7 +19,7 @@ You can start the app from the commandline with arguments, e.g.:
 XpathEncryptor.exe "..\..\..\XpathEncryptor.Consumer\bin\Debug\XpathEncryptor.Consumer.exe.config" "configuration/appSettings/add[@key='TestSetting']/@value" "VeryHard2Guess!"
 ```
 
-### `XpathEncryptor.Core` libary
+### `XpathEncryptor.Core` library
 
 A .NET library that is designed to be included in your app and allows you to encrypt and decrypt values. You can find an example in the `XpathEncryptor.Consumer` app how to integrate the library in your own projects. 
 
